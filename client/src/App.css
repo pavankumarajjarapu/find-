@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+table{
+  border-collapse: collapse;
+}
+table,th,td{
+  
+  border: 2px solid rgb(56, 53, 53);
+  
+}
+button{
+  background-color: azure;
+  color: brown;
+  margin-top: 12px;
+  font-family: fantasy;
+  font-size: 23px;
+}
